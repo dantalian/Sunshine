@@ -7,4 +7,8 @@
     <string name="nublado">Nublado</string>
     <string name="grau21">21º</string>
     <string name="grau8">8º</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_refresh">Atualizar</string>
 </resources>
