@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Opções</string>
+    <string name="imgTest_label">teste</string>
+    <string name="data_hoje">Hoje, 31 de Março</string>
+    <string name="nublado">Nublado</string>
+    <string name="grau21">21º</string>
+    <string name="grau8">8º</string>
+</resources>
