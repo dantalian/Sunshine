@@ -129,9 +129,8 @@ public class ForecastFragment extends Fragment {
                 forecastJsonStr = buffer.toString();
             }catch (MalformedURLException | ProtocolException e) {
                 Log.e(LOG_TAG, "Error ", e);
-                return null;
             } catch (IOException e) {
-                Log.e(LOG_TAG, "Error ", e);
+                Log.e(LOG_TAG, "Error IO ", e);
                 return null;
             } finally{
                 if (urlConnection != null) {
