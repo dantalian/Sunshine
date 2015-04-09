@@ -2,13 +2,22 @@
     <string name="app_name">Sunshine</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Opções</string>
-    <string name="imgTest_label">teste</string>
-    <string name="data_hoje">Hoje, 31 de Março</string>
-    <string name="nublado">Nublado</string>
-    <string name="grau21">21º</string>
-    <string name="grau8">8º</string>
-
-<!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="action_refresh">Atualizar</string>
+    <string name="action_map">Mapa</string>
+
+    <string name="title_activity_detail">Detalhes</string>
+    <string name="title_activity_settings">Opções</string>
+
+    <string name="pref_location_label">Localização</string>
+    <string name="pref_location_key" translatable="false">location</string>
+    <string name="pref_location_default" translatable="false">Brasília</string>
+
+    <string name="pref_units_label">Unidade de Temperatura</string>
+    <string name="pref_units_key" translatable="false">units</string>
+    <string name="pref_units_label_metric">Métrico</string>
+    <string name="pref_units_label_imperial">Imperial</string>
+    <string name="pref_units_metric" translatable="false">metric</string>
+    <string name="pref_units_imperial" translatable="false">imperial</string>
+    <string name="action_share">Compartilhar</string>
+
 </resources>
