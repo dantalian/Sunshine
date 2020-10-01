@@ -1,2 +1,2 @@
 # Sunshine
-Projeto de previsão de tempo em Android 
+Old project of a weather app in android
